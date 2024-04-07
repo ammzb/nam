@@ -1,0 +1,17 @@
+{
+  "type": "module",
+  "dependencies": {
+    "long": "^5.2.3",
+    "osmojs": "^16.10.0"
+  },
+  "name": "osmosis",
+  "version": "1.0.0",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
